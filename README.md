@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Manish Singh
 
-<!--
-**manishsingh0434-del/manishsingh0434-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Learning Generative AI with Python
+- 🐧 Linux (RHCSA & Advanced Red Hat Linux training)
+- 🤖 Interested in LLMs, RAG, AI Agents, and Software Development
+- 📚 Currently learning Docker, Kubernetes, and AWS
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python
+- Linux
+- Git & GitHub
+- VS Code
+- Docker
+- Kubernetes
+- AWS
+- Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goal
+Build real-world AI applications and become an AI Software Engineer.
+
+## 📫 Connect with Me
+- GitHub: https://github.com/manishsingh0434-del
