@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manish Singh
 
-### 🚀 Generative AI | Python | Linux | Open Source Learner
+### 🚀 Generative AI Engineer | Python Developer | Linux Enthusiast
 
 ## 🚀 About Me
 - 🐍 Learning Python for AI and Automation
