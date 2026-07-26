@@ -1,24 +1,29 @@
 # Hi 👋, I'm Manish Singh
 
+### 🚀 Generative AI | Python | Linux | Open Source Learner
+
 ## 🚀 About Me
 - 🐍 Learning Python for AI and Automation
 - 🤖 Learning Generative AI, RAG, LLMs, and AI Agents
-- 🐧 Trained in Linux (RHCSA and advanced Red Hat Linux)
+- 🐧 Trained in Linux (RHCSA) and Advanced Red Hat Linux Administration
 - 📦 Learning Docker, Kubernetes, and AWS
 - 💡 Passionate about Software Development and AI
 
-## 🛠️ Skills
+## 🌱 Currently Learning
 - Python
-- Linux
 - Git & GitHub
-- VS Code
+- Generative AI
+- RAG
 - Docker
 - Kubernetes
 - AWS
-- Generative AI
 
-## 🎯 Goal
-Build production-ready AI applications and become an AI Software Engineer.
+## 🎯 2026 Goals
+- 🚀 Build 20+ Python projects
+- 🤖 Build 10+ Generative AI applications
+- 📚 Master RAG, AI Agents, Docker, and Kubernetes
+- 🌍 Contribute to open-source projects
+- 💼 Land an AI Software Engineer role
 
 ## 📫 Connect
 GitHub: https://github.com/manishsingh0434-del
